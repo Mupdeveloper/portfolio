@@ -119,6 +119,129 @@ nav a:hover {
 
 
 
+body{ margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #222;
+    width: 100%;
+    margin: 14px auto;
+}
+
+
+.first-10{
+    color: #2b374c;
+    border-bottom: 3.5px solid rgba(34, 90, 163, 0.782);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 10px;
+    padding-bottom: 10px;
+
+}
+.first-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4%;
+    margin-left: 20px;
+    
+}
+.first-11{ 
+    background: #3fa0e0;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.first-12{
+    color: #2b374c;
+    border-bottom: 3.5px solid rgba(34, 90, 163, 0.782);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    margin-left: 10px;
+    margin-top: 60px;
+    padding-bottom: 10px;
+
+}
+
+.first-13{ 
+   
+    border: 2px solid rgba(189, 189, 189, 0.673);
+    border-radius: 4%;
+    padding: 13px;
+    background: #f5f3f4;
+
+
+}
+
+.first-130{
+    display: flex;
+    gap:1.5%;
+    width: 90%;
+    margin-left: 20px;
+}
+
+
+.first-14{
+    background: #e9f0f3;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #d1d9dd;
+    width: 88%;
+    max-width: 14px auto;
+    margin-left: 20px;
+    
+}
+  
+
+footer{
+     background: #1f2f3d;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    font-size: 14px;  
+    
+   
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
